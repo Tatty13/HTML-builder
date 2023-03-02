@@ -25,12 +25,12 @@ Most tasks can be done in several ways, and at this stage there are no wrong one
 * Webpack
 
 ## **Table**
-✅ [01 Reading a file with output to the console](https://github.com/EvgeniiMal/HTML-builder/tree/main/01-read-file)  
-✅ [02 Write console input to file](https://github.com/EvgeniiMal/HTML-builder/blob/main/02-write-file)  
-✅ [03 Displaying information about files stored in a folder](https://github.com/EvgeniiMal/HTML-builder/blob/main/03-files-in-folder)  
-✅ [04 Folder Copy](https://github.com/EvgeniiMal/HTML-builder/tree/main/04-copy-directory)  
-✅ [05 Build css bundle](https://github.com/EvgeniiMal/HTML-builder/blob/main/05-merge-styles)  
-❌ [06 Building an HTML page from components and styles](https://github.com/EvgeniiMal/HTML-builder/tree/main/06-build-page)  
+✅ [01 Reading a file with output to the console](https://github.com/Tatty13/HTML-builder/tree/main/01-read-file)  
+✅ [02 Write console input to file](https://github.com/Tatty13/HTML-builder/blob/main/02-write-file)  
+✅ [03 Displaying information about files stored in a folder](https://github.com/Tatty13/HTML-builder/blob/main/03-files-in-folder)  
+✅ [04 Folder Copy](https://github.com/Tatty13/HTML-builder/tree/main/04-copy-directory)  
+✅ [05 Build css bundle](https://github.com/Tatty13/HTML-builder/blob/main/05-merge-styles)  
+❌ [06 Building an HTML page from components and styles](https://github.com/Tatty13/HTML-builder/tree/main/06-build-page)  
 
 ---
 
@@ -63,9 +63,9 @@ Most tasks can be done in several ways, and at this stage there are no wrong one
 * Webpack
 
 ## **Оглавление**
-✅ [01 Чтение файла с выводом содержимого в консоль](https://github.com/EvgeniiMal/HTML-builder/tree/main/01-read-file)  
-✅ [02 Запись консольного ввода в файл](https://github.com/EvgeniiMal/HTML-builder/blob/main/02-write-file)  
-✅ [03 Вывод информации о файлаx хранящихся в папке](https://github.com/EvgeniiMal/HTML-builder/blob/main/03-files-in-folder)  
-✅ [04 Копирование папки](https://github.com/EvgeniiMal/HTML-builder/tree/main/04-copy-directory)  
-✅ [05 Сборка css бандла](https://github.com/EvgeniiMal/HTML-builder/blob/main/05-merge-styles)  
-❌ [06 Сборка HTML страницы из компонентов и стилей](https://github.com/EvgeniiMal/HTML-builder/tree/main/06-build-page)  
+✅ [01 Чтение файла с выводом содержимого в консоль](https://github.com/Tatty13/HTML-builder/tree/main/01-read-file)  
+✅ [02 Запись консольного ввода в файл](https://github.com/Tatty13/HTML-builder/blob/main/02-write-file)  
+✅ [03 Вывод информации о файлаx хранящихся в папке](https://github.com/Tatty13/HTML-builder/blob/main/03-files-in-folder)  
+✅ [04 Копирование папки](https://github.com/Tatty13/HTML-builder/tree/main/04-copy-directory)  
+✅ [05 Сборка css бандла](https://github.com/Tatty13/HTML-builder/blob/main/05-merge-styles)  
+❌ [06 Сборка HTML страницы из компонентов и стилей](https://github.com/Tatty13/HTML-builder/tree/main/06-build-page)  
