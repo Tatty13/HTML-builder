@@ -36,7 +36,8 @@ Most tasks can be done in several ways, and at this stage there are no wrong one
 
 ---
 
-Задание:
+# Задание: HTML-конструктор
+
 ## **Цели**:
 
 В данной серии заданий основной целью является понимание основ работы с платформой Node.js.  
